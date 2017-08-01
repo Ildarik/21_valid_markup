@@ -1,6 +1,6 @@
 # Site of Real Estate Agency
 
-[TODO. There will be project description]
+Simple landing page for Real Estate Agency
 
 # Project Goals
 
